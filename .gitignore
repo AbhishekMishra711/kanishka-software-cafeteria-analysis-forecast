@@ -1,0 +1,26 @@
+# Raw SQL data and archives
+Cafeteria Order Data/
+*.zip
+*.sql
+
+# Data directories
+data/
+
+# Python cache & environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
