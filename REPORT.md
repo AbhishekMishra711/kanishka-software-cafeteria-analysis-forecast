@@ -231,7 +231,7 @@ Using the validated model retrained on 100% of historical series data, we projec
 ## 5. Repository File Map & Deliverables
 
 ```
-d:\Project-Kanis\
+project-KSPL/
 ├── Cafeteria Order Data/
 │   ├── Cafeteria Order Data.sql     # Raw 11 GB MySQL dump (67 tables, FY 2024-25)
 │   └── users.sql                    # Raw 13.5 MB MySQL user accounts dump
